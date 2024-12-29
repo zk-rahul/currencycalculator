@@ -16,7 +16,7 @@ Clone the repository:
 
 **bash**
 **Copy code**
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/zk-rahul/currencycalculator
 cd currency-converter
 Open the project folder: Simply open the index.html file in your preferred browser.
 
